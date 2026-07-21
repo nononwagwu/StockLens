@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/2014_Financial_Data.csv
+data/2015_Financial_Data.csv
+data/2016_Financial_Data.csv
+data/2017_Financial_Data.csv
